@@ -30,28 +30,8 @@ BEM Methodology: For clean, reusable class naming.
 Visual Studio Code: Development environment.
 Git & GitHub: Version control.
 Project Structure 📂
-python
-Copy code
-### Bandsite/
-├── assets/
-│   ├── fonts/                # Custom fonts (NunitoSans)
-│   ├── images/               # Band images & gallery photos
-│   ├── logos/                # Band logo
-│   └── icons/                # Social media icons
-├── styles/
-│   ├── partials/             # SCSS partials
-│   │   ├── _variables.scss   # Variables (colors, fonts)
-│   │   ├── _mixins.scss      # Media query mixins
-│   │   ├── _base.scss        # Base styles
-│   │   ├── _header.scss      # Navbar styles
-│   │   ├── _hero.scss        # Hero section styles
-│   │   ├── _gallery.scss     # Gallery styles
-│   │   ├── _footer.scss      # Footer styles
-│   ├── bio.scss              # Main SCSS file
-│   ├── bio.css               # Compiled CSS file
-│   └── bio.css.map           # Source map for debugging
-├── index.html                # Main HTML file
-└── README.md                 # Project documentation
+
+
 Features ✨
 Responsive Design
 
