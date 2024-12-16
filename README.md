@@ -32,7 +32,7 @@ Git & GitHub: Version control.
 Project Structure 📂
 python
 Copy code
-Bandsite/
+### Bandsite/
 ├── assets/
 │   ├── fonts/                # Custom fonts (NunitoSans)
 │   ├── images/               # Band images & gallery photos
